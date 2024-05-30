@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)]
 
 <h1 align="center">Hi 👋, I'm SUMIT KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cyber Security from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-04&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-04" /> </p>
